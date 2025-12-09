@@ -11,7 +11,10 @@ A simple **Flutter app** that calculates your weight on different planets based 
 
 ## Screenshots
 
-<!--![App Screenshot](images/planet.png)-->
+![App Screenshot](images/home.png)
+![App Screenshot](images/pluto.png)
+![App Screenshot](images/mars.png)
+![App Screenshot](images/venus.png)
 
 ## Getting Started
 
